@@ -1,0 +1,28 @@
+_repo: Daily-stories-of-Pennsylvania-b-prepared-for-publication-in-the-leading-daily-newspapers-of-t__69956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Godcharles, Frederick A.
+    gutenberg_agent_id: '55510'
+    url: http://www.gutenberg.org/2009/agents/55510
+description: ''
+gutenberg_issued: '2023-02-04'
+identifiers:
+  gutenberg: '69956'
+language: en
+pgterms:marc904: https://archive.org/details/dailystoriesofpe00godc_0/page/n9/mode/2up
+pgterms:marc905: 20210419221432godcharles
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Charlene Taylor, KD Weeks, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bW. B. Conkey Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Daily stories of Pennsylvania : $b prepared for publication in the leading
+  daily newspapers of the state...'
+url: http://www.gutenberg.org/ebooks/69956
