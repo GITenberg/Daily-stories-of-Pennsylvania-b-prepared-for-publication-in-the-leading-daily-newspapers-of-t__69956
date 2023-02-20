@@ -1,11 +1,16 @@
 _repo: Daily-stories-of-Pennsylvania-b-prepared-for-publication-in-the-leading-daily-newspapers-of-t__69956
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69956-h/images/cover.jpg
 creator:
   author:
     agent_name: Godcharles, Frederick A.
     gutenberg_agent_id: '55510'
     url: http://www.gutenberg.org/2009/agents/55510
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69956#Daily-stories-of-Pennsylvania-b-prepared-for-publication-in-the-leading-daily-newspapers-of-t_
 gutenberg_issued: '2023-02-04'
 identifiers:
   gutenberg: '69956'
